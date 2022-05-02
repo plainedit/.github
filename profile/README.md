@@ -5,14 +5,15 @@ Plain editor written in Bash, it's a single bash scripts with modular architectu
 
 + All the files are stored in a Git repository, each article is saved as a separated text file in Markdown syntax.
 + simply script easy to understand with basic functions
-+
-It is so simple that it doesn't have any user management (KISS philosophy):
++ It is so simple that it doesn't have any user management (KISS philosophy):
+
 👋 File-based using a Git repository
 👋 Markdown syntax
 👋 Markdown-to-HTML converter: pandas
 
 
 All examples are rendered through one run in shell, supported languages:
+
 👋 sh/bash
 👋 php
 👋 js
@@ -21,11 +22,13 @@ All examples are rendered through one run in shell, supported languages:
 
 
 running code on remote server, environments:
+
 👋 Docker
 👋 kubernetes
 
 
 You can even use external API:  
+
 👋 github
 👋 gitlab
 👋 cloudflare 

@@ -35,10 +35,6 @@ You can even use external API:
 👋 digitalcloud
 
 
-+ [Sourcecode - bash.plainedit.com](http://bash.plainedit.com/)
-+ [Offer - offer.plainedit.com](http://offer.plainedit.com/)
-+ [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
-+ [Documentation - docs.plainedit.com](http://docs.plainedit.com/)
-+ [Website - www.plainedit.com](http://www.plainedit.com/)
-+ [News - blog.plainedit.com](http://blog.plainedit.com/)
-+ [Offer - offer.plainedit.com](http://offer.plainedit.com/)
+[Sourcecode - bash.plainedit.com](http://bash.plainedit.com/) - [Usecases - examples.plainedit.com](http://examples.plainedit.com/)
+[Documentation - docs.plainedit.com](http://docs.plainedit.com/) - [Website - www.plainedit.com](http://www.plainedit.com/)
+[Roadmap - roadmap.plainedit.com](http://roadmap.plainedit.com/) -  [Offer - offer.plainedit.com](http://offer.plainedit.com/)

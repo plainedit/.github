@@ -1,8 +1,7 @@
-## About PlainEdit  👋
-
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
 
+## About PlainEdit  👋
 
 ### USAGE
 

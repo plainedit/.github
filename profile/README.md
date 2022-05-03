@@ -20,20 +20,16 @@ Support it via GitHub Sponsors:
 + simply script easy to understand with basic functions
 + It is so simple that it doesn't have any user management (KISS philosophy):
 
-All examples are rendered through one run in shell, supported languages:
-
-**sh/bash** + **php** + **js** + **java** + **groovy**
-
-
-running code on remote server, environments:
-
-👋 Docker
-👋 kubernetes
+👋 All examples are rendered through one run in shell, 
+supported languages:  **sh/bash** + **php** + **js** + **java** + **groovy**
 
 
-You can even use external API:  
+👋 Run Your code on remote server, 
+supported environments: **Docker** + **kubernetes**
 
-**github** + **gitlab** + **cloudflare** + **digitalcloud**
+
+👋 Use an external API:
+supported API: **github** + **gitlab** + **cloudflare** + **digitalcloud**
 
 
 [Sourcecode](http://bash.plainedit.com/) - [Usecases](http://examples.plainedit.com/) - [Documentation](http://docs.plainedit.com/) - [Roadmap](http://roadmap.plainedit.com/) -  [Offer](http://offer.plainedit.com/)

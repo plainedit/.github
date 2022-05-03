@@ -1,7 +1,8 @@
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
 
-You like [**Nano JSX**](http://www.plainedit.com/)?  
+You like [**PlainEdit**](http://www.plainedit.com/)?  
+
 Support it via GitHub Sponsors: 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=social&logo=GitHub)](https://github.com/sponsors/tom-sapletta-com)  

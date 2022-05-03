@@ -14,7 +14,7 @@ Plain editor written in Bash, it's a single bash scripts with modular architectu
 
 All examples are rendered through one run in shell, supported languages:
 
-sh/bash + php + js + java + groovy
+**sh/bash** + **php** + **js** + **java** + **groovy**
 
 
 running code on remote server, environments:
@@ -25,7 +25,7 @@ running code on remote server, environments:
 
 You can even use external API:  
 
-github + gitlab + cloudflare + digitalcloud
+**github** + **gitlab** + **cloudflare** + **digitalcloud**
 
 
 [Sourcecode](http://bash.plainedit.com/) - [Usecases](http://examples.plainedit.com/) - [Documentation](http://docs.plainedit.com/) - [Roadmap](http://roadmap.plainedit.com/) -  [Offer](http://offer.plainedit.com/)

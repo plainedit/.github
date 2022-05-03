@@ -24,15 +24,16 @@ Support it via GitHub Sponsors:
 
 + It is so simple that it doesn't have any user management (KISS philosophy):
 
-👋 All examples are rendered through one run in shell, 
-supported languages:  **sh/bash** + **php** + **js** + **java** + **groovy**
+👋 All examples are rendered through one run in shell, supported languages:  
++ **sh/bash** + **php** + **js** + **java** + **groovy**
 
 
-👋 Run Your code on remote server, 
-supported environments: **Docker** + **kubernetes**
+👋 Run Your code on remote server, supported environments: 
++ **Docker** + **kubernetes**
 
 
-👋 Use an external API: **github** + **gitlab** + **cloudflare** + **digitalcloud**
+👋 Use an external API: 
++ **github** + **gitlab** + **cloudflare** + **digitalcloud**
 
 
 [Sourcecode](http://bash.plainedit.com/) - [Usecases](http://examples.plainedit.com/) - [Documentation](http://docs.plainedit.com/) - [Roadmap](http://roadmap.plainedit.com/) -  [Offer](http://offer.plainedit.com/)

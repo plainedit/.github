@@ -13,10 +13,15 @@ Support it via GitHub Sponsors:
 + students learn more effective with live tutorials with auto-deployed code
 
 👋 Markdown syntax
+
 + All the files are stored in a Git repository, each article is saved as a separated text file in Markdown syntax.
+
 👋 File-based using a Git repository
+
 + simply script easy to understand with basic functions
+
 👋 Markdown-to-HTML converter: pandas
+
 + It is so simple that it doesn't have any user management (KISS philosophy):
 
 👋 All examples are rendered through one run in shell, 

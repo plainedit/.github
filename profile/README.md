@@ -1,7 +1,9 @@
 PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
 Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
 
-👋 can help another dev/ops in team to make step by step daily tasks with projects
+👋 PlainEdit help 
++ dev/ops teams make daily tasks easier and clear with auto-documentated code
++ students learn more effective with live tutorials with auto-deployed code
 
 + All the files are stored in a Git repository, each article is saved as a separated text file in Markdown syntax.
 + simply script easy to understand with basic functions

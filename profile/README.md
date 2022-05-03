@@ -12,12 +12,11 @@ Support it via GitHub Sponsors:
 + dev/ops teams make daily tasks easier and clear with auto-documentated code
 + students learn more effective with live tutorials with auto-deployed code
 
-👋 File-based using a Git repository
 👋 Markdown syntax
-👋 Markdown-to-HTML converter: pandas
-
 + All the files are stored in a Git repository, each article is saved as a separated text file in Markdown syntax.
+👋 File-based using a Git repository
 + simply script easy to understand with basic functions
+👋 Markdown-to-HTML converter: pandas
 + It is so simple that it doesn't have any user management (KISS philosophy):
 
 👋 All examples are rendered through one run in shell, 
@@ -28,8 +27,7 @@ supported languages:  **sh/bash** + **php** + **js** + **java** + **groovy**
 supported environments: **Docker** + **kubernetes**
 
 
-👋 Use an external API:
-supported API: **github** + **gitlab** + **cloudflare** + **digitalcloud**
+👋 Use an external API: **github** + **gitlab** + **cloudflare** + **digitalcloud**
 
 
 [Sourcecode](http://bash.plainedit.com/) - [Usecases](http://examples.plainedit.com/) - [Documentation](http://docs.plainedit.com/) - [Roadmap](http://roadmap.plainedit.com/) -  [Offer](http://offer.plainedit.com/)
